@@ -6,7 +6,8 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
@@ -19,13 +20,13 @@ public:
 
     int max_Path(TreeNode* node, int &maxi)
     {
-        if(node == nullptr) return 0;
+        if(node == NULL) return 0;
 
-        int left = max(0,max_Path(node->left, maxi));
-        int right = max(0,max_Path(node->right, maxi));
+        int left = max(0, max_Path(node->left, maxi));
+        int right = max(0, max_Path(node->right,maxi));
 
         maxi = max(maxi, left + right + node->val);
 
-        return max(left, right) + node->val;
+        return max(left, right) + node->val; 
     }
 };
