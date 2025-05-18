@@ -49,6 +49,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ishivammishra/Leetcode_codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ishivammishra/Leetcode_codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ishivammishra/Leetcode_codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -90,4 +93,12 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ishivammishra/Leetcode_codes/tree/master/0124-binary-tree-maximum-path-sum) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
