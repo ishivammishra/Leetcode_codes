@@ -26,7 +26,8 @@ public:
         int left = max(0, max_sum(node->left, maxi_sum));
         int right = max(0, max_sum(node->right, maxi_sum));
 
-        maxi_sum = max(maxi_sum, left + right + node->val);
+        // maximum sum at a particular node
+        maxi_sum = max(maxi_sum, left + right + node->val); 
 
         return max(left, right) + node->val;
     }
