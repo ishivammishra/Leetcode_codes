@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ishivammishra/Leetcode_codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ishivammishra/Leetcode_codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ishivammishra/Leetcode_codes/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -90,6 +92,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ishivammishra/Leetcode_codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ishivammishra/Leetcode_codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ishivammishra/Leetcode_codes/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -128,4 +131,8 @@
 | [0450-delete-node-in-a-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0784-insert-into-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
