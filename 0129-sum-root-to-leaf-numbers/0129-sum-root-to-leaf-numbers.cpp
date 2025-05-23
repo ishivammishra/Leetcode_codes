@@ -17,14 +17,15 @@ public:
         return helper(root, num);
     }
 
-    int helper(TreeNode* node, int num)
-    {
-        if(node == NULL) return 0;
+    int helper(TreeNode* node, int num) {
+        if (node == NULL)
+            return 0;
 
         num = num * 10 + node->val;
 
-        if(node->left == NULL and node->right == NULL) return num;
+        if (node->left == NULL and node->right == NULL)
+            return num;
 
-        return helper(node->left, num) + helper(node->right, num);
+        return (helper(node->left, num) + helper(node->right, num));
     }
 };
