@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ishivammishra/Leetcode_codes/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/ishivammishra/Leetcode_codes/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0735-asteroid-collision](https://github.com/ishivammishra/Leetcode_codes/tree/master/0735-asteroid-collision) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -159,6 +160,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ishivammishra/Leetcode_codes/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0222-count-complete-tree-nodes) |
 ## Two Pointers
 |  |
@@ -169,4 +171,8 @@
 |  |
 | ------- |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ishivammishra/Leetcode_codes/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
