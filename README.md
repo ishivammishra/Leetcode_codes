@@ -162,6 +162,7 @@
 | ------- |
 | [0078-subsets](https://github.com/ishivammishra/Leetcode_codes/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0222-count-complete-tree-nodes) |
+| [0795-k-th-symbol-in-grammar](https://github.com/ishivammishra/Leetcode_codes/tree/master/0795-k-th-symbol-in-grammar) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,4 +176,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ishivammishra/Leetcode_codes/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/ishivammishra/Leetcode_codes/tree/master/0795-k-th-symbol-in-grammar) |
+## Recursion
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/ishivammishra/Leetcode_codes/tree/master/0795-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
