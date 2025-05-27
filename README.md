@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ishivammishra/Leetcode_codes/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ishivammishra/Leetcode_codes/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/ishivammishra/Leetcode_codes/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -177,6 +178,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ishivammishra/Leetcode_codes/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/ishivammishra/Leetcode_codes/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ishivammishra/Leetcode_codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0090-subsets-ii) |
