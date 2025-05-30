@@ -3,18 +3,18 @@ public:
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
         sort(nums.begin(), nums.end());
         vector<int> op;
-        set<vector<int>> temp_ans;
+        set<vector<int>> temp;
 
-        solve(nums, op, temp_ans);
-        vector<vector<int>> ans(temp_ans.begin(), temp_ans.end());
+        solve(nums, op, temp);
+        vector<vector<int>> ans(temp.begin(), temp.end());
         return ans;
-    }
+    };
 
-    void solve(vector<int> nums, vector<int> &op, set<vector<int>> &temp_ans)
+    void solve(vector<int> nums, vector<int> &op, set<vector<int>> &temp)
     {
         if(nums.size() == 0)
         {
-            temp_ans.insert(op);
+            temp.insert(op);
             return;
         }
 
@@ -24,7 +24,7 @@ public:
         op2.push_back(nums[0]);
         nums.erase(nums.begin() + 0);
 
-        solve(nums, op1, temp_ans);
-        solve(nums, op2, temp_ans); 
+        solve(nums, op1, temp);
+        solve(nums, op2, temp);
     }
 };
