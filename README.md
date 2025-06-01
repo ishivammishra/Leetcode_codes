@@ -29,6 +29,7 @@
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0402-remove-k-digits](https://github.com/ishivammishra/Leetcode_codes/tree/master/0402-remove-k-digits) |
 ## Greedy
 |  |
@@ -180,6 +181,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/ishivammishra/Leetcode_codes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/ishivammishra/Leetcode_codes/tree/master/0077-combinations) |
@@ -194,4 +196,8 @@
 |  |
 | ------- |
 | [0795-k-th-symbol-in-grammar](https://github.com/ishivammishra/Leetcode_codes/tree/master/0795-k-th-symbol-in-grammar) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
