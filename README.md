@@ -173,6 +173,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ishivammishra/Leetcode_codes/tree/master/0042-trapping-rain-water) |
+| [0202-happy-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0202-happy-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
@@ -191,6 +192,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0202-happy-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ishivammishra/Leetcode_codes/tree/master/0795-k-th-symbol-in-grammar) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ishivammishra/Leetcode_codes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Recursion
@@ -201,4 +203,5 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0202-happy-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
