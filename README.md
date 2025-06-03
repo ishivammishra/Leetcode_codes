@@ -95,6 +95,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ishivammishra/Leetcode_codes/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ishivammishra/Leetcode_codes/tree/master/0617-merge-two-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0975-range-sum-of-bst) |
@@ -138,6 +139,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ishivammishra/Leetcode_codes/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ishivammishra/Leetcode_codes/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/ishivammishra/Leetcode_codes/tree/master/0617-merge-two-binary-trees) |
 ## Dynamic Programming
 |  |
@@ -204,4 +206,12 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0202-happy-number) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ishivammishra/Leetcode_codes/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ishivammishra/Leetcode_codes/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
