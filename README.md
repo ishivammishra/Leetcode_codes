@@ -12,6 +12,7 @@
 | [0090-subsets-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0216-combination-sum-iii) |
 | [0735-asteroid-collision](https://github.com/ishivammishra/Leetcode_codes/tree/master/0735-asteroid-collision) |
+| [1036-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/1036-rotting-oranges) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Stack
 |  |
@@ -141,6 +142,7 @@
 | [0226-invert-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ishivammishra/Leetcode_codes/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/ishivammishra/Leetcode_codes/tree/master/0617-merge-two-binary-trees) |
+| [1036-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -214,4 +216,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ishivammishra/Leetcode_codes/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
