@@ -11,6 +11,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0216-combination-sum-iii) |
+| [0542-01-matrix](https://github.com/ishivammishra/Leetcode_codes/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ishivammishra/Leetcode_codes/tree/master/0735-asteroid-collision) |
 | [1036-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/1036-rotting-oranges) |
@@ -142,6 +143,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ishivammishra/Leetcode_codes/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/ishivammishra/Leetcode_codes/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ishivammishra/Leetcode_codes/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/ishivammishra/Leetcode_codes/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
@@ -151,6 +153,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ishivammishra/Leetcode_codes/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ishivammishra/Leetcode_codes/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/ishivammishra/Leetcode_codes/tree/master/0542-01-matrix) |
 ## String Matching
 |  |
 | ------- |
@@ -222,6 +225,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/ishivammishra/Leetcode_codes/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
