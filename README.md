@@ -7,6 +7,7 @@
 | [0039-combination-sum](https://github.com/ishivammishra/Leetcode_codes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ishivammishra/Leetcode_codes/tree/master/0042-trapping-rain-water) |
+| [0073-set-matrix-zeroes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/ishivammishra/Leetcode_codes/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0090-subsets-ii) |
@@ -219,6 +220,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0202-happy-number) |
 ## Union Find
 |  |
@@ -233,6 +235,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/ishivammishra/Leetcode_codes/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/ishivammishra/Leetcode_codes/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
