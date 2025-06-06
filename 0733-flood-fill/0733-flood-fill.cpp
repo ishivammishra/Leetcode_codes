@@ -1,23 +1,32 @@
 class Solution {
 public:
-    void solve(vector<vector<int>>& image, int i, int j, int point, int color) {
-        if (i < 0 || i >= image.size() || j < 0 || j >= image[0].size() ||
-            image[i][j] == color || image[i][j] != point) {
+    int n, m;
+    vector<pair<int, int>> directions = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
+
+    void dfs(int r, int c, vector<vector<int>>& image, int color,
+             int startColor) {
+        if (!(r >= 0 && r < n && c >= 0 && c < m && image[r][c] == startColor))
             return;
+
+        image[r][c] = color;
+
+        for (const auto& dir : directions) {
+            int row = r + dir.first;
+            int col = c + dir.second;
+            dfs(row, col, image, color, startColor);
         }
-        image[i][j] = color;
-        solve(image, i - 1, j, point, color);
-        solve(image, i + 1, j, point, color);
-        solve(image, i, j - 1, point, color);
-        solve(image, i, j + 1, point, color);
     }
 
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc,
                                   int color) {
-        int n = image.size();
-        int m = image[0].size();
-        int point = image[sr][sc];
-        solve(image, sr, sc, point, color);
+        n = image.size();
+        m = image[0].size();
+        int startColor = image[sr][sc];
+
+        if (startColor == color)
+            return image;
+
+        dfs(sr, sc, image, color, startColor);
         return image;
     }
 };
