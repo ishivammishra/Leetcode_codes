@@ -1,11 +1,11 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
+        int m = grid.size();
+        int n = grid[0].size();
         queue<pair<int, int>> q;
         int fresh = 0;
         int time = 0;
-        int m = grid.size();
-        int n = grid[0].size();
 
         for (int r = 0; r < m; r++) {
             for (int c = 0; c < n; c++) {
@@ -16,25 +16,21 @@ public:
             }
         }
 
-        vector<pair<int, int>> directions = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+        vector<pair<int, int>> directions = {{-1, 0}, {1, 0}, {0, 1}, {0, -1}};
 
-        while (fresh > 0 and !q.empty()) 
-        {
+        while (fresh > 0 and !q.empty()) {
             int len = q.size();
-            for (int i = 0; i < len; i++) 
-            {
+            for (int i = 0; i < len; i++) {
                 auto curr = q.front();
                 q.pop();
-
                 int r = curr.first;
                 int c = curr.second;
 
-                for (const auto &dir : directions) 
-                {
+                for (auto dir : directions) {
                     int row = r + dir.first;
                     int col = c + dir.second;
-                    if(row >= 0 and row < m and col >= 0 and col < n and grid[row][col] == 1)
-                    {
+
+                    if (row >= 0 and row < m and col >= 0 and col < n and grid[row][col] == 1) {
                         grid[row][col] = 2;
                         q.push({row, col});
                         fresh--;
