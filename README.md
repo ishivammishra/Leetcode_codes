@@ -102,6 +102,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/ishivammishra/Leetcode_codes/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/ishivammishra/Leetcode_codes/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ishivammishra/Leetcode_codes/tree/master/0547-number-of-provinces) |
@@ -245,4 +246,8 @@
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1073-number-of-enclaves) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/ishivammishra/Leetcode_codes/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
