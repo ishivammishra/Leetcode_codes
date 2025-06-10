@@ -38,6 +38,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0402-remove-k-digits](https://github.com/ishivammishra/Leetcode_codes/tree/master/0402-remove-k-digits) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Greedy
 |  |
 | ------- |
@@ -226,6 +227,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0202-happy-number) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Union Find
 |  |
 | ------- |
@@ -250,4 +252,8 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ishivammishra/Leetcode_codes/tree/master/0386-lexicographical-numbers) |
+## Counting
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->
