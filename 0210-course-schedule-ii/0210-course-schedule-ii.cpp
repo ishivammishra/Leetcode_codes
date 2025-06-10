@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
         vector<vector<int>> adj(numCourses);
-        for (auto& it : prerequisites) {
+        for (auto it : prerequisites) {
             adj[it[1]].push_back(it[0]);
         }
 
