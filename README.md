@@ -16,6 +16,7 @@
 | [0216-combination-sum-iii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/ishivammishra/Leetcode_codes/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/ishivammishra/Leetcode_codes/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/ishivammishra/Leetcode_codes/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ishivammishra/Leetcode_codes/tree/master/0735-asteroid-collision) |
