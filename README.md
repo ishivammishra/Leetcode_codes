@@ -23,6 +23,7 @@
 | [1036-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1073-number-of-enclaves) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2047-find-a-peak-element-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/2047-find-a-peak-element-ii) |
 | [2102-find-the-middle-index-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/2102-find-the-middle-index-in-array) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/ishivammishra/Leetcode_codes/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Stack
@@ -61,6 +62,7 @@
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0222-count-complete-tree-nodes) |
+| [2047-find-a-peak-element-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/2047-find-a-peak-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -264,6 +266,7 @@
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1073-number-of-enclaves) |
+| [2047-find-a-peak-element-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/2047-find-a-peak-element-ii) |
 ## Trie
 |  |
 | ------- |
