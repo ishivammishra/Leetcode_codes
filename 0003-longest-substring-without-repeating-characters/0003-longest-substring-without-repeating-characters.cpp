@@ -5,23 +5,17 @@ public:
         int left = 0;
         int right = 0;
         int max_len = 0;
-        unordered_set<char> hash;
+        unordered_map<char, int> mpp;
 
-        while(right < n)
-        {
-            // aagr hash me nhi hai to insert kardo 
-            if(hash.find(s[right]) == hash.end())
-            {
-                hash.insert(s[right]);
-                max_len = max(max_len, right - left + 1);
-                right++;
+        while (right < n) {
+            char c = s[right];
+
+            if (mpp.find(c) != mpp.end() and mpp[c] >= left) {
+                left = mpp[c] + 1;
             }
-            // aur aagr hash me hai to remove kardo 
-            else
-            {
-                hash.erase(s[left]);
-                left++;
-            }
+            mpp[c] = right;
+            max_len = max(max_len, right - left + 1);
+            right++;
         }
         return max_len;
     }
