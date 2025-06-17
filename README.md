@@ -70,6 +70,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/ishivammishra/Leetcode_codes/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/ishivammishra/Leetcode_codes/tree/master/0374-guess-number-higher-or-lower) |
 | [2047-find-a-peak-element-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/2047-find-a-peak-element-ii) |
 ## Tree
 |  |
@@ -307,4 +308,5 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ishivammishra/Leetcode_codes/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/ishivammishra/Leetcode_codes/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
