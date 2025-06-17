@@ -69,6 +69,7 @@
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/ishivammishra/Leetcode_codes/tree/master/0278-first-bad-version) |
 | [2047-find-a-peak-element-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/2047-find-a-peak-element-ii) |
 ## Tree
 |  |
@@ -302,4 +303,8 @@
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ishivammishra/Leetcode_codes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ishivammishra/Leetcode_codes/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
