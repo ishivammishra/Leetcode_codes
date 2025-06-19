@@ -30,6 +30,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/2047-find-a-peak-element-ii) |
 | [2102-find-the-middle-index-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/2102-find-the-middle-index-in-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ishivammishra/Leetcode_codes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ishivammishra/Leetcode_codes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/ishivammishra/Leetcode_codes/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Stack
@@ -59,6 +60,7 @@
 | [0917-boats-to-save-people](https://github.com/ishivammishra/Leetcode_codes/tree/master/0917-boats-to-save-people) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ishivammishra/Leetcode_codes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ishivammishra/Leetcode_codes/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ishivammishra/Leetcode_codes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/ishivammishra/Leetcode_codes/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -234,6 +236,7 @@
 | [0018-4sum](https://github.com/ishivammishra/Leetcode_codes/tree/master/0018-4sum) |
 | [0917-boats-to-save-people](https://github.com/ishivammishra/Leetcode_codes/tree/master/0917-boats-to-save-people) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ishivammishra/Leetcode_codes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ishivammishra/Leetcode_codes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Backtracking
 |  |
