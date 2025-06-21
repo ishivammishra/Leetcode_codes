@@ -20,6 +20,7 @@
 | [0463-island-perimeter](https://github.com/ishivammishra/Leetcode_codes/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/ishivammishra/Leetcode_codes/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/ishivammishra/Leetcode_codes/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/ishivammishra/Leetcode_codes/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ishivammishra/Leetcode_codes/tree/master/0735-asteroid-collision) |
 | [0917-boats-to-save-people](https://github.com/ishivammishra/Leetcode_codes/tree/master/0917-boats-to-save-people) |
@@ -269,6 +270,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ishivammishra/Leetcode_codes/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/ishivammishra/Leetcode_codes/tree/master/0560-subarray-sum-equals-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Union Find
 |  |
@@ -309,6 +311,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ishivammishra/Leetcode_codes/tree/master/0560-subarray-sum-equals-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ishivammishra/Leetcode_codes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2102-find-the-middle-index-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/2102-find-the-middle-index-in-array) |
 ## Sliding Window
