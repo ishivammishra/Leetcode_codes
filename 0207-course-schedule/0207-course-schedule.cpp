@@ -2,15 +2,14 @@ class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         vector<vector<int>> adj(numCourses);
-        for (auto& it : prerequisites) {
+        for (auto it : prerequisites) {
             adj[it[1]].push_back(it[0]);
         }
 
         vector<int> indegree(numCourses, 0);
         for (int i = 0; i < numCourses; i++) {
-            for (int it : adj[i]) {
+            for (auto it : adj[i])
                 indegree[it]++;
-            }
         }
 
         queue<int> q;
@@ -26,14 +25,13 @@ public:
             q.pop();
             ans.push_back(node);
 
-            for (int it : adj[node]) {
+            for (auto it : adj[node]) {
                 indegree[it]--;
                 if (indegree[it] == 0) {
                     q.push(it);
                 }
             }
         }
-
         return ans.size() == numCourses;
     }
 };
