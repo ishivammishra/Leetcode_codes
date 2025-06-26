@@ -7,16 +7,14 @@ public:
         int maxi = 0;
 
         for (int i = 0; i < k; i++) {
-            left = left + cardPoints[i];
+            left += cardPoints[i];
         }
-
         maxi = left;
 
         int right_ind = n - 1;
-
         for (int i = k - 1; i >= 0; i--) {
             left = left - cardPoints[i];
-            right = right + cardPoints[right_ind];
+            right += cardPoints[right_ind];
             right_ind--;
 
             maxi = max(maxi, left + right);
