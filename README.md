@@ -29,6 +29,7 @@
 | [1036-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1073-number-of-enclaves) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ishivammishra/Leetcode_codes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ishivammishra/Leetcode_codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2047-find-a-peak-element-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/2047-find-a-peak-element-ii) |
 | [2102-find-the-middle-index-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/2102-find-the-middle-index-in-array) |
@@ -81,6 +82,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/ishivammishra/Leetcode_codes/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ishivammishra/Leetcode_codes/tree/master/0374-guess-number-higher-or-lower) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ishivammishra/Leetcode_codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2047-find-a-peak-element-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/2047-find-a-peak-element-ii) |
 ## Tree
 |  |
@@ -236,6 +238,7 @@
 | [0202-happy-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0283-move-zeroes) |
 | [0917-boats-to-save-people](https://github.com/ishivammishra/Leetcode_codes/tree/master/0917-boats-to-save-people) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ishivammishra/Leetcode_codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
@@ -245,6 +248,7 @@
 | [0229-majority-element-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ishivammishra/Leetcode_codes/tree/master/0242-valid-anagram) |
 | [0917-boats-to-save-people](https://github.com/ishivammishra/Leetcode_codes/tree/master/0917-boats-to-save-people) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ishivammishra/Leetcode_codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ishivammishra/Leetcode_codes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ishivammishra/Leetcode_codes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
