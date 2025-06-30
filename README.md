@@ -23,6 +23,7 @@
 | [0485-max-consecutive-ones](https://github.com/ishivammishra/Leetcode_codes/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/ishivammishra/Leetcode_codes/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ishivammishra/Leetcode_codes/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/ishivammishra/Leetcode_codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ishivammishra/Leetcode_codes/tree/master/0735-asteroid-collision) |
 | [0917-boats-to-save-people](https://github.com/ishivammishra/Leetcode_codes/tree/master/0917-boats-to-save-people) |
@@ -247,6 +248,7 @@
 | [0018-4sum](https://github.com/ishivammishra/Leetcode_codes/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ishivammishra/Leetcode_codes/tree/master/0242-valid-anagram) |
+| [0594-longest-harmonious-subsequence](https://github.com/ishivammishra/Leetcode_codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0917-boats-to-save-people](https://github.com/ishivammishra/Leetcode_codes/tree/master/0917-boats-to-save-people) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ishivammishra/Leetcode_codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -284,6 +286,7 @@
 | [0229-majority-element-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ishivammishra/Leetcode_codes/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/ishivammishra/Leetcode_codes/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/ishivammishra/Leetcode_codes/tree/master/0594-longest-harmonious-subsequence) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Union Find
 |  |
@@ -316,6 +319,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/ishivammishra/Leetcode_codes/tree/master/0594-longest-harmonious-subsequence) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Topological Sort
 |  |
@@ -332,6 +336,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ishivammishra/Leetcode_codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/ishivammishra/Leetcode_codes/tree/master/0594-longest-harmonious-subsequence) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ishivammishra/Leetcode_codes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Interactive
 |  |
