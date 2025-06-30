@@ -12,20 +12,19 @@
  */
 class Solution {
 public:
+    int height(TreeNode* node, int &d) {
+        if (node == NULL)
+            return 0;
+        int left = height(node->left, d);
+        int right = height(node->right, d);
+
+        d = max(d, left + right);
+        return max(left, right) + 1;
+    }
+
     int diameterOfBinaryTree(TreeNode* root) {
         int d = 0;
         height(root, d);
-
         return d;
-    }
-    int height(TreeNode* node, int& d) {
-        if (node == nullptr)
-            return 0;
-        int left = height(node->left,d);
-        int right = height(node->right,d);
-
-        d = max(d, left + right);
-
-        return max(left, right) + 1;
     }
 };
