@@ -285,6 +285,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ishivammishra/Leetcode_codes/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/ishivammishra/Leetcode_codes/tree/master/0234-palindrome-linked-list) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ishivammishra/Leetcode_codes/tree/master/0795-k-th-symbol-in-grammar) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -368,6 +369,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ishivammishra/Leetcode_codes/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/ishivammishra/Leetcode_codes/tree/master/0024-swap-nodes-in-pairs) |
 | [0142-linked-list-cycle-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/ishivammishra/Leetcode_codes/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ishivammishra/Leetcode_codes/tree/master/0237-delete-node-in-a-linked-list) |
