@@ -34,6 +34,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ishivammishra/Leetcode_codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2047-find-a-peak-element-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/2047-find-a-peak-element-ii) |
+| [2058-concatenation-of-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/2102-find-the-middle-index-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ishivammishra/Leetcode_codes/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/ishivammishra/Leetcode_codes/tree/master/0735-asteroid-collision) |
+| [2058-concatenation-of-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/2058-concatenation-of-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
