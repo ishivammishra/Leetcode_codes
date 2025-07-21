@@ -67,6 +67,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/ishivammishra/Leetcode_codes/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/ishivammishra/Leetcode_codes/tree/master/0402-remove-k-digits) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/ishivammishra/Leetcode_codes/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1542-consecutive-characters](https://github.com/ishivammishra/Leetcode_codes/tree/master/1542-consecutive-characters) |
 | [3617-find-the-original-typed-string-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
