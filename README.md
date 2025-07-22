@@ -36,6 +36,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ishivammishra/Leetcode_codes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ishivammishra/Leetcode_codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1813-maximum-erasure-value](https://github.com/ishivammishra/Leetcode_codes/tree/master/1813-maximum-erasure-value) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2047-find-a-peak-element-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/2058-concatenation-of-array) |
@@ -323,6 +324,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/ishivammishra/Leetcode_codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/ishivammishra/Leetcode_codes/tree/master/1813-maximum-erasure-value) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Union Find
 |  |
@@ -375,6 +377,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ishivammishra/Leetcode_codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/ishivammishra/Leetcode_codes/tree/master/0594-longest-harmonious-subsequence) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ishivammishra/Leetcode_codes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1813-maximum-erasure-value](https://github.com/ishivammishra/Leetcode_codes/tree/master/1813-maximum-erasure-value) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Interactive
 |  |
