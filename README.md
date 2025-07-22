@@ -30,6 +30,7 @@
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ishivammishra/Leetcode_codes/tree/master/0735-asteroid-collision) |
 | [0917-boats-to-save-people](https://github.com/ishivammishra/Leetcode_codes/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/ishivammishra/Leetcode_codes/tree/master/0941-sort-array-by-parity) |
 | [1036-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1073-number-of-enclaves) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -262,6 +263,7 @@
 | [0283-move-zeroes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0917-boats-to-save-people](https://github.com/ishivammishra/Leetcode_codes/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/ishivammishra/Leetcode_codes/tree/master/0941-sort-array-by-parity) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ishivammishra/Leetcode_codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Sorting
@@ -274,6 +276,7 @@
 | [0242-valid-anagram](https://github.com/ishivammishra/Leetcode_codes/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/ishivammishra/Leetcode_codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0917-boats-to-save-people](https://github.com/ishivammishra/Leetcode_codes/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/ishivammishra/Leetcode_codes/tree/master/0941-sort-array-by-parity) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ishivammishra/Leetcode_codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ishivammishra/Leetcode_codes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
