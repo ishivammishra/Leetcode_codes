@@ -29,6 +29,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ishivammishra/Leetcode_codes/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ishivammishra/Leetcode_codes/tree/master/0735-asteroid-collision) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/ishivammishra/Leetcode_codes/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0917-boats-to-save-people](https://github.com/ishivammishra/Leetcode_codes/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/ishivammishra/Leetcode_codes/tree/master/0941-sort-array-by-parity) |
 | [1036-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/1036-rotting-oranges) |
@@ -266,6 +267,7 @@
 | [0234-palindrome-linked-list](https://github.com/ishivammishra/Leetcode_codes/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/ishivammishra/Leetcode_codes/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0917-boats-to-save-people](https://github.com/ishivammishra/Leetcode_codes/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/ishivammishra/Leetcode_codes/tree/master/0941-sort-array-by-parity) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ishivammishra/Leetcode_codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
