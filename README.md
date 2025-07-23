@@ -57,6 +57,7 @@
 | [0234-palindrome-linked-list](https://github.com/ishivammishra/Leetcode_codes/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/ishivammishra/Leetcode_codes/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/ishivammishra/Leetcode_codes/tree/master/0735-asteroid-collision) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/ishivammishra/Leetcode_codes/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0402-remove-k-digits](https://github.com/ishivammishra/Leetcode_codes/tree/master/0402-remove-k-digits) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ishivammishra/Leetcode_codes/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1542-consecutive-characters](https://github.com/ishivammishra/Leetcode_codes/tree/master/1542-consecutive-characters) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/ishivammishra/Leetcode_codes/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3617-find-the-original-typed-string-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Greedy
@@ -79,6 +81,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/ishivammishra/Leetcode_codes/tree/master/0402-remove-k-digits) |
 | [0917-boats-to-save-people](https://github.com/ishivammishra/Leetcode_codes/tree/master/0917-boats-to-save-people) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/ishivammishra/Leetcode_codes/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ishivammishra/Leetcode_codes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
