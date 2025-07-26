@@ -39,6 +39,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ishivammishra/Leetcode_codes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ishivammishra/Leetcode_codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1813-maximum-erasure-value](https://github.com/ishivammishra/Leetcode_codes/tree/master/1813-maximum-erasure-value) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2047-find-a-peak-element-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/2058-concatenation-of-array) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/ishivammishra/Leetcode_codes/tree/master/0735-asteroid-collision) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/2058-concatenation-of-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
@@ -308,6 +310,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0202-happy-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ishivammishra/Leetcode_codes/tree/master/0795-k-th-symbol-in-grammar) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ishivammishra/Leetcode_codes/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ishivammishra/Leetcode_codes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -318,6 +321,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/ishivammishra/Leetcode_codes/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/ishivammishra/Leetcode_codes/tree/master/0234-palindrome-linked-list) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ishivammishra/Leetcode_codes/tree/master/0795-k-th-symbol-in-grammar) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Hash Table
@@ -408,4 +412,8 @@
 | [0234-palindrome-linked-list](https://github.com/ishivammishra/Leetcode_codes/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ishivammishra/Leetcode_codes/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ishivammishra/Leetcode_codes/tree/master/0328-odd-even-linked-list) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
