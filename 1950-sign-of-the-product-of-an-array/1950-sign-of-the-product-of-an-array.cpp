@@ -10,9 +10,11 @@ public:
                 cnt++;
         }
 
-        if (cnt % 2 == 0)
-            return 1;
-        else
-            return -1;
+        return cnt % 2 ? -1 : 1;
+
+        // if (cnt % 2 == 0)
+        //     return 1;
+        // else
+        //     return -1;
     }
 };
