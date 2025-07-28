@@ -273,6 +273,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ishivammishra/Leetcode_codes/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ishivammishra/Leetcode_codes/tree/master/0042-trapping-rain-water) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ishivammishra/Leetcode_codes/tree/master/0234-palindrome-linked-list) |
@@ -415,6 +416,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ishivammishra/Leetcode_codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/ishivammishra/Leetcode_codes/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ishivammishra/Leetcode_codes/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/ishivammishra/Leetcode_codes/tree/master/0234-palindrome-linked-list) |
