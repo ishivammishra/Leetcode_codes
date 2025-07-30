@@ -30,6 +30,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ishivammishra/Leetcode_codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/ishivammishra/Leetcode_codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ishivammishra/Leetcode_codes/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/ishivammishra/Leetcode_codes/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ishivammishra/Leetcode_codes/tree/master/0735-asteroid-collision) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/ishivammishra/Leetcode_codes/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -176,6 +177,7 @@
 | [0572-subtree-of-another-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ishivammishra/Leetcode_codes/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/ishivammishra/Leetcode_codes/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
 | [0975-range-sum-of-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0975-range-sum-of-bst) |
 | [1073-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1073-number-of-enclaves) |
@@ -229,6 +231,7 @@
 | [0547-number-of-provinces](https://github.com/ishivammishra/Leetcode_codes/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/ishivammishra/Leetcode_codes/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/ishivammishra/Leetcode_codes/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1073-number-of-enclaves) |
@@ -359,6 +362,7 @@
 | [0130-surrounded-regions](https://github.com/ishivammishra/Leetcode_codes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ishivammishra/Leetcode_codes/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ishivammishra/Leetcode_codes/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/ishivammishra/Leetcode_codes/tree/master/0695-max-area-of-island) |
 | [1073-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
@@ -374,6 +378,7 @@
 | [0200-number-of-islands](https://github.com/ishivammishra/Leetcode_codes/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ishivammishra/Leetcode_codes/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/ishivammishra/Leetcode_codes/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/ishivammishra/Leetcode_codes/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1073-number-of-enclaves) |
