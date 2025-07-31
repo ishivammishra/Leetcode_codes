@@ -24,14 +24,12 @@ public:
                     curr = curr->next;
 
                 prev->next = curr;
-            }
-            else
-            {
+            } 
+            else {
                 prev = curr;
                 curr = curr->next;
             }
         }
-
         return dummy->next;
     }
 };
