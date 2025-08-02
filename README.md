@@ -149,6 +149,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/ishivammishra/Leetcode_codes/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -183,6 +184,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/ishivammishra/Leetcode_codes/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
+| [0904-leaf-similar-trees](https://github.com/ishivammishra/Leetcode_codes/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0975-range-sum-of-bst) |
 | [1073-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
@@ -214,6 +216,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/ishivammishra/Leetcode_codes/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
