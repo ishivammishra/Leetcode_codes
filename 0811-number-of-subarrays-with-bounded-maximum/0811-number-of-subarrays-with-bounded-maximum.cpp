@@ -6,12 +6,13 @@ public:
         int valid = -1;
         int invalid = -1;
 
-        for (int i = 0; i < n; i++) {
-            if (nums[i] >= left and nums[i] <= right)
+        for(int i = 0; i< n; i++)
+        {
+            if(nums[i] >= left and nums[i] <= right)
                 valid = i;
             if(nums[i] > right)
                 invalid = i;
-
+            
             ans = ans + max(0, valid - invalid);
         }
         return ans;
