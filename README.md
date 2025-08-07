@@ -38,6 +38,7 @@
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/ishivammishra/Leetcode_codes/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0917-boats-to-save-people](https://github.com/ishivammishra/Leetcode_codes/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/0932-monotonic-array) |
+| [0940-fruit-into-baskets](https://github.com/ishivammishra/Leetcode_codes/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/ishivammishra/Leetcode_codes/tree/master/0941-sort-array-by-parity) |
 | [1036-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1073-number-of-enclaves) |
@@ -366,6 +367,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ishivammishra/Leetcode_codes/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ishivammishra/Leetcode_codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0940-fruit-into-baskets](https://github.com/ishivammishra/Leetcode_codes/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/ishivammishra/Leetcode_codes/tree/master/1813-maximum-erasure-value) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -424,6 +426,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ishivammishra/Leetcode_codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/ishivammishra/Leetcode_codes/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/ishivammishra/Leetcode_codes/tree/master/0940-fruit-into-baskets) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ishivammishra/Leetcode_codes/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ishivammishra/Leetcode_codes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ishivammishra/Leetcode_codes/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
