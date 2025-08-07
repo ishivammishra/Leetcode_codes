@@ -2,18 +2,27 @@ class Solution {
 public:
     int numSubarrayBoundedMax(vector<int>& nums, int left, int right) {
         int n = nums.size();
+        int start = 0;
+        
+        int count= 0;
         int ans = 0;
-        int valid = -1;
-        int invalid = -1;
 
-        for(int i = 0; i< n; i++)
+        for(int end = 0; end < n; end ++ )
         {
-            if(nums[i] >= left and nums[i] <= right)
-                valid = i;
-            if(nums[i] > right)
-                invalid = i;
-            
-            ans = ans + max(0, valid - invalid);
+            if(nums[end] >= left and nums[end] <= right)
+            {
+                count = end - start + 1;
+                ans =  ans + count;
+            }
+            else if(nums[end] < left)
+            {
+                ans = ans + count;
+            }
+            else
+            {
+                start = end + 1;
+                count = 0;
+            }
         }
         return ans;
     }
