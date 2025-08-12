@@ -24,24 +24,19 @@ public:
         }
 
         vector<int> ans;
-        while(!q.empty())
-        {
+        while (!q.empty()) {
             int node = q.front();
             q.pop();
             ans.push_back(node);
 
-
-            for(auto it : adj[node])
-            {
+            for (auto it : adj[node]) {
                 indegree[it]--;
-                if(indegree[it] == 0)
-                {
+                if (indegree[it] == 0) {
                     q.push(it);
                 }
             }
         }
-        sort(ans.begin(),ans.end());
+        sort(ans.begin(), ans.end());
         return ans;
-
     }
 };
