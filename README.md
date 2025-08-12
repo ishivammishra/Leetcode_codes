@@ -187,6 +187,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/ishivammishra/Leetcode_codes/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/ishivammishra/Leetcode_codes/tree/master/0820-find-eventual-safe-states) |
 | [0904-leaf-similar-trees](https://github.com/ishivammishra/Leetcode_codes/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0975-range-sum-of-bst) |
 | [1073-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1073-number-of-enclaves) |
@@ -244,6 +245,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/ishivammishra/Leetcode_codes/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/ishivammishra/Leetcode_codes/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1073-number-of-enclaves) |
 ## Dynamic Programming
@@ -385,6 +387,7 @@
 | [0207-course-schedule](https://github.com/ishivammishra/Leetcode_codes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ishivammishra/Leetcode_codes/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/ishivammishra/Leetcode_codes/tree/master/0820-find-eventual-safe-states) |
 ## Matrix
 |  |
 | ------- |
@@ -415,6 +418,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/ishivammishra/Leetcode_codes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/ishivammishra/Leetcode_codes/tree/master/0820-find-eventual-safe-states) |
 ## Prefix Sum
 |  |
 | ------- |
