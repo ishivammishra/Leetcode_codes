@@ -284,6 +284,7 @@
 | [0090-subsets-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ishivammishra/Leetcode_codes/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/ishivammishra/Leetcode_codes/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ishivammishra/Leetcode_codes/tree/master/0795-k-th-symbol-in-grammar) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -344,6 +345,7 @@
 | [0202-happy-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ishivammishra/Leetcode_codes/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ishivammishra/Leetcode_codes/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ishivammishra/Leetcode_codes/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ishivammishra/Leetcode_codes/tree/master/0795-k-th-symbol-in-grammar) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -358,6 +360,7 @@
 | [0231-power-of-two](https://github.com/ishivammishra/Leetcode_codes/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ishivammishra/Leetcode_codes/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/ishivammishra/Leetcode_codes/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ishivammishra/Leetcode_codes/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ishivammishra/Leetcode_codes/tree/master/0795-k-th-symbol-in-grammar) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
