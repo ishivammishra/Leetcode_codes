@@ -259,6 +259,7 @@
 | [0118-pascals-triangle](https://github.com/ishivammishra/Leetcode_codes/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ishivammishra/Leetcode_codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/ishivammishra/Leetcode_codes/tree/master/0542-01-matrix) |
+| [0867-new-21-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/0867-new-21-game) |
 ## String Matching
 |  |
 | ------- |
@@ -348,6 +349,7 @@
 | [0326-power-of-three](https://github.com/ishivammishra/Leetcode_codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ishivammishra/Leetcode_codes/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ishivammishra/Leetcode_codes/tree/master/0795-k-th-symbol-in-grammar) |
+| [0867-new-21-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/1448-maximum-69-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -443,6 +445,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ishivammishra/Leetcode_codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/ishivammishra/Leetcode_codes/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/ishivammishra/Leetcode_codes/tree/master/0940-fruit-into-baskets) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ishivammishra/Leetcode_codes/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ishivammishra/Leetcode_codes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -473,4 +476,8 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
