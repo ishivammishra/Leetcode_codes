@@ -9,11 +9,11 @@ public:
         queue<pair<int, int>> q;
         vector<vector<int>> dist(n,vector<int>(n,-1));
 
-        q.push({0,0});
-        dist[0][0] = 1;
+       q.push({0,0});
+       dist[0][0] = 1;
 
-        while(!q.empty())
-        {
+       while(!q.empty())
+       {
             auto curr = q.front();
             q.pop();
             int r = curr.first;
@@ -21,19 +21,19 @@ public:
 
             if(r == n-1 and c == n-1) return dist[r][c];
 
-            for(auto dir: directions)
+            for(auto dir : directions)
             {
                 int row = r + dir.first;
                 int col = c + dir.second;
-                if(row >= 0 and col >= 0 and row<n and col < n and grid[row][col] == 0 and dist[row][col] == -1)
+
+                if(row>=0 and col >= 0 and row < n and col < n and grid[row][col] == 0 and dist[row][col] == -1)
                 {
                     dist[row][col] = dist[r][c] + 1;
-                    q.push({row, col});
+                    q.push({row,col});
                 }
             }
-
-        }
-        return -1;
+       }
+       return -1;
 
     }
 };
