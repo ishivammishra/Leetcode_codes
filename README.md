@@ -60,6 +60,7 @@
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ishivammishra/Leetcode_codes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/ishivammishra/Leetcode_codes/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ishivammishra/Leetcode_codes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/ishivammishra/Leetcode_codes/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -356,6 +357,7 @@
 | [1448-maximum-69-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/1448-maximum-69-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/ishivammishra/Leetcode_codes/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ishivammishra/Leetcode_codes/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ishivammishra/Leetcode_codes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
