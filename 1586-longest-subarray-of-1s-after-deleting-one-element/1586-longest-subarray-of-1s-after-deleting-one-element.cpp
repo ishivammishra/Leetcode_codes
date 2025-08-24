@@ -9,7 +9,6 @@ public:
         for (int right = 0; right < n; right++) {
             if (nums[right] == 0)
                 z_count++;
-
             while (z_count > 1) {
                 if (nums[left] == 0)
                     z_count--;
@@ -18,7 +17,6 @@ public:
 
             ans = max(ans, right - left);
         }
-
         return ans;
     }
 };
