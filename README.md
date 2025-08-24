@@ -49,6 +49,7 @@
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ishivammishra/Leetcode_codes/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ishivammishra/Leetcode_codes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ishivammishra/Leetcode_codes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ishivammishra/Leetcode_codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1813-maximum-erasure-value](https://github.com/ishivammishra/Leetcode_codes/tree/master/1813-maximum-erasure-value) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -267,6 +268,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/ishivammishra/Leetcode_codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/ishivammishra/Leetcode_codes/tree/master/0542-01-matrix) |
 | [0867-new-21-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/0867-new-21-game) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ishivammishra/Leetcode_codes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## String Matching
 |  |
 | ------- |
@@ -461,6 +463,7 @@
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ishivammishra/Leetcode_codes/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ishivammishra/Leetcode_codes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ishivammishra/Leetcode_codes/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ishivammishra/Leetcode_codes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/ishivammishra/Leetcode_codes/tree/master/1813-maximum-erasure-value) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Interactive
