@@ -298,6 +298,7 @@
 | [0231-power-of-two](https://github.com/ishivammishra/Leetcode_codes/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ishivammishra/Leetcode_codes/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ishivammishra/Leetcode_codes/tree/master/0795-k-th-symbol-in-grammar) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ishivammishra/Leetcode_codes/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Two Pointers
@@ -503,4 +504,9 @@
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/2481-strictly-palindromic-number) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ishivammishra/Leetcode_codes/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Enumeration
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ishivammishra/Leetcode_codes/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
