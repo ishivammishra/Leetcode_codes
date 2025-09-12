@@ -101,6 +101,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ishivammishra/Leetcode_codes/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ishivammishra/Leetcode_codes/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ishivammishra/Leetcode_codes/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3462-vowels-game-in-a-string](https://github.com/ishivammishra/Leetcode_codes/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Greedy
@@ -370,6 +371,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ishivammishra/Leetcode_codes/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ishivammishra/Leetcode_codes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/ishivammishra/Leetcode_codes/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3830-find-closest-person](https://github.com/ishivammishra/Leetcode_codes/tree/master/3830-find-closest-person) |
@@ -505,8 +507,13 @@
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/2481-strictly-palindromic-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ishivammishra/Leetcode_codes/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/ishivammishra/Leetcode_codes/tree/master/3462-vowels-game-in-a-string) |
 ## Enumeration
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ishivammishra/Leetcode_codes/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/ishivammishra/Leetcode_codes/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
