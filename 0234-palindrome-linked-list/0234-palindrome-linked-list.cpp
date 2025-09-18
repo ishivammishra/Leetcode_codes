@@ -8,23 +8,20 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        // finding the middle element
-        ListNode* slow = head;
         ListNode* fast = head;
-        while (fast != nullptr && fast->next != nullptr) {
+        ListNode* slow = head;
+        while (fast != nullptr and fast->next != nullptr) {
             slow = slow->next;
             fast = fast->next->next;
         }
-        // if the no. of the node is odd
-        if (fast != nullptr) {
+
+        while (fast != nullptr) {
             slow = slow->next;
         }
 
-        // reverse the end half
         ListNode* prev = nullptr;
         ListNode* temp = nullptr;
         while (slow != nullptr) {
@@ -34,15 +31,14 @@ public:
             slow = temp;
         }
 
-        // comparing the first half and the end half
         fast = head;
         head = prev;
-        while (head && fast) {
-            if (head->val != fast->val) {
+        while (head and fast) {
+            if (fast->val != head->val) {
                 return false;
             }
-            head = head->next;
             fast = fast->next;
+            head = head->next;
         }
         return true;
     }
