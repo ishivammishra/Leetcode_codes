@@ -13,7 +13,8 @@ public:
     void reorderList(ListNode* head) {
         ListNode* fast = head;
         ListNode* slow = head;
-        while (fast and fast->next) {
+        while(fast and fast->next)
+        {
             fast = fast->next->next;
             slow = slow->next;
         }
@@ -22,7 +23,8 @@ public:
         slow->next = nullptr;
         ListNode* prev = nullptr;
 
-        while (se) {
+        while(se)
+        {
             ListNode* temp = se->next;
             se->next = prev;
             prev = se;
@@ -31,7 +33,8 @@ public:
 
         ListNode* fi = head;
         se = prev;
-        while (se) {
+        while(se)
+        {
             ListNode* temp1 = fi->next;
             ListNode* temp2 = se->next;
             fi->next = se;
