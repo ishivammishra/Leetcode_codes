@@ -13,15 +13,16 @@ public:
     void reorderList(ListNode* head) {
         ListNode* fast = head;
         ListNode* slow = head;
+
         while(fast and fast->next)
         {
             fast = fast->next->next;
-            slow = slow->next;
+            slow= slow->next;
         }
 
         ListNode* se = slow->next;
-        slow->next = nullptr;
-        ListNode* prev = nullptr;
+        slow->next = NULL;
+        ListNode* prev = NULL;
 
         while(se)
         {
