@@ -39,6 +39,7 @@
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ishivammishra/Leetcode_codes/tree/master/0735-asteroid-collision) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/ishivammishra/Leetcode_codes/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0830-largest-triangle-area](https://github.com/ishivammishra/Leetcode_codes/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/ishivammishra/Leetcode_codes/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/ishivammishra/Leetcode_codes/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/0932-monotonic-array) |
@@ -372,6 +373,7 @@
 | [0326-power-of-three](https://github.com/ishivammishra/Leetcode_codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ishivammishra/Leetcode_codes/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ishivammishra/Leetcode_codes/tree/master/0795-k-th-symbol-in-grammar) |
+| [0830-largest-triangle-area](https://github.com/ishivammishra/Leetcode_codes/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/1448-maximum-69-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -533,4 +535,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/ishivammishra/Leetcode_codes/tree/master/3462-vowels-game-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/ishivammishra/Leetcode_codes/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
