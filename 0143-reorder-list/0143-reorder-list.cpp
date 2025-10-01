@@ -14,18 +14,16 @@ public:
         ListNode* fast = head;
         ListNode* slow = head;
 
-        while(fast and fast->next)
-        {
+        while (fast and fast->next) {
             fast = fast->next->next;
-            slow= slow->next;
+            slow = slow->next;
         }
 
         ListNode* se = slow->next;
         slow->next = NULL;
         ListNode* prev = NULL;
 
-        while(se)
-        {
+        while (se) {
             ListNode* temp = se->next;
             se->next = prev;
             prev = se;
@@ -34,12 +32,12 @@ public:
 
         ListNode* fi = head;
         se = prev;
-        while(se)
-        {
+        while (se) {
             ListNode* temp1 = fi->next;
             ListNode* temp2 = se->next;
             fi->next = se;
             se->next = temp1;
+
             fi = temp1;
             se = temp2;
         }
