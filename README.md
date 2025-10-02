@@ -91,6 +91,7 @@
 | [1642-water-bottles](https://github.com/ishivammishra/Leetcode_codes/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/2058-concatenation-of-array) |
+| [3336-water-bottles-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
@@ -385,6 +386,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ishivammishra/Leetcode_codes/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ishivammishra/Leetcode_codes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/ishivammishra/Leetcode_codes/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
