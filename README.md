@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ishivammishra/Leetcode_codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ishivammishra/Leetcode_codes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ishivammishra/Leetcode_codes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ishivammishra/Leetcode_codes/tree/master/0018-4sum) |
@@ -115,6 +116,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ishivammishra/Leetcode_codes/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/ishivammishra/Leetcode_codes/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ishivammishra/Leetcode_codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0611-valid-triangle-number) |
@@ -315,6 +317,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ishivammishra/Leetcode_codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ishivammishra/Leetcode_codes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ishivammishra/Leetcode_codes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ishivammishra/Leetcode_codes/tree/master/0018-4sum) |
