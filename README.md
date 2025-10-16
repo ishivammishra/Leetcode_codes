@@ -332,6 +332,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ishivammishra/Leetcode_codes/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ishivammishra/Leetcode_codes/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ishivammishra/Leetcode_codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ishivammishra/Leetcode_codes/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0283-move-zeroes) |
@@ -418,6 +419,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/ishivammishra/Leetcode_codes/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ishivammishra/Leetcode_codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ishivammishra/Leetcode_codes/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0229-majority-element-ii) |
@@ -520,6 +522,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ishivammishra/Leetcode_codes/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ishivammishra/Leetcode_codes/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ishivammishra/Leetcode_codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ishivammishra/Leetcode_codes/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ishivammishra/Leetcode_codes/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ishivammishra/Leetcode_codes/tree/master/0328-odd-even-linked-list) |
