@@ -388,6 +388,7 @@
 | [0867-new-21-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/ishivammishra/Leetcode_codes/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/ishivammishra/Leetcode_codes/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ishivammishra/Leetcode_codes/tree/master/2432-number-of-zero-filled-subarrays) |
