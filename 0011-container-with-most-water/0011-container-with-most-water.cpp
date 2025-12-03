@@ -6,19 +6,19 @@ public:
         int right = n-1;
         int max_water = 0;
 
-        while(left < right)
+        while(left <= right)
         {
-            int w = right - left;
+            int w = right-left;
             int h = min(height[left], height[right]);
 
-            int water = w * h;
+            int actual_water = w * h;
 
-            max_water = max(max_water, water);
+            max_water = max(max_water, actual_water);
 
             if(height[left] < height[right])
                 left++;
             else
-                right--;
+                right--; 
         }
         return max_water;
     }
