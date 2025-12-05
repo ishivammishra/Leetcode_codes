@@ -90,6 +90,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ishivammishra/Leetcode_codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/ishivammishra/Leetcode_codes/tree/master/0735-asteroid-collision) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ishivammishra/Leetcode_codes/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2211-count-collisions-on-a-road](https://github.com/ishivammishra/Leetcode_codes/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [1642-water-bottles](https://github.com/ishivammishra/Leetcode_codes/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/2058-concatenation-of-array) |
+| [2211-count-collisions-on-a-road](https://github.com/ishivammishra/Leetcode_codes/tree/master/2211-count-collisions-on-a-road) |
 | [3336-water-bottles-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ishivammishra/Leetcode_codes/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -114,6 +116,7 @@
 | [1542-consecutive-characters](https://github.com/ishivammishra/Leetcode_codes/tree/master/1542-consecutive-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ishivammishra/Leetcode_codes/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ishivammishra/Leetcode_codes/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2211-count-collisions-on-a-road](https://github.com/ishivammishra/Leetcode_codes/tree/master/2211-count-collisions-on-a-road) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ishivammishra/Leetcode_codes/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3462-vowels-game-in-a-string](https://github.com/ishivammishra/Leetcode_codes/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3617-find-the-original-typed-string-i) |
