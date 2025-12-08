@@ -397,6 +397,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ishivammishra/Leetcode_codes/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/ishivammishra/Leetcode_codes/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ishivammishra/Leetcode_codes/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/ishivammishra/Leetcode_codes/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ishivammishra/Leetcode_codes/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -562,6 +563,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/ishivammishra/Leetcode_codes/tree/master/1925-count-square-sum-triples) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ishivammishra/Leetcode_codes/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Game Theory
 |  |
