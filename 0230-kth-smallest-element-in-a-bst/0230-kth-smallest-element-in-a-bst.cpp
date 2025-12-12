@@ -6,29 +6,33 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
-    void solve(TreeNode* node, int& cnt, int k, int& k_small) {
-        if (node == NULL || cnt >= k)
-            return;
 
-        solve(node->left, cnt, k, k_small);
+    void solve(TreeNode* node, int &cnt, int k, int &k_smallest)
+    {
+        if(node == NULL or cnt >= k)
+            return;
+        
+        solve(node->left, cnt, k, k_smallest);
 
         cnt++;
-        if (cnt == k) {
-            k_small = node->val;
+        if(cnt == k)
+        {
+            k_smallest = node->val;
             return;
         }
-        solve(node->right, cnt, k, k_small);
+
+        solve(node->right, cnt, k, k_smallest);
     }
+
     int kthSmallest(TreeNode* root, int k) {
-        int k_small = INT_MIN;
+        int k_smallest = INT_MIN;
         int cnt = 0;
-        solve(root, cnt, k, k_small);
-        return k_small;
+        solve(root, cnt, k, k_smallest);
+        return k_smallest;
     }
 };
