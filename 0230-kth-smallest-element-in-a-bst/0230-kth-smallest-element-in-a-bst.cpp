@@ -12,13 +12,11 @@
  */
 class Solution {
 public:
-
-    void solve(TreeNode* node, int k, int& cnt, int& k_small)
-    {
-        if(node == NULL or cnt >= k)
+    void solve(TreeNode* node, int k, int& k_small, int& cnt) {
+        if (node == NULL or cnt >= k)
             return;
         
-        solve(node->left, k, cnt, k_small);
+        solve(node->left, k, k_small, cnt);
 
         cnt++;
         if(cnt == k)
@@ -27,13 +25,13 @@ public:
             return;
         }
 
-        solve(node->right, k, cnt, k_small);
+        solve(node->right, k, k_small, cnt);
     }
 
     int kthSmallest(TreeNode* root, int k) {
         int k_small = INT_MIN;
         int cnt = 0;
-        solve(root, k, cnt, k_small);
+        solve(root, k, k_small, cnt);
         return k_small;
     }
 };
