@@ -47,6 +47,7 @@
 | [0940-fruit-into-baskets](https://github.com/ishivammishra/Leetcode_codes/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/ishivammishra/Leetcode_codes/tree/master/0941-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ishivammishra/Leetcode_codes/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -229,6 +230,7 @@
 | [0820-find-eventual-safe-states](https://github.com/ishivammishra/Leetcode_codes/tree/master/0820-find-eventual-safe-states) |
 | [0904-leaf-similar-trees](https://github.com/ishivammishra/Leetcode_codes/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0975-range-sum-of-bst) |
+| [1020-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1020-number-of-enclaves) |
 | [1073-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -286,6 +288,7 @@
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/ishivammishra/Leetcode_codes/tree/master/0820-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ishivammishra/Leetcode_codes/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -467,6 +470,7 @@
 | [0200-number-of-islands](https://github.com/ishivammishra/Leetcode_codes/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ishivammishra/Leetcode_codes/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ishivammishra/Leetcode_codes/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1020-number-of-enclaves) |
 | [1073-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
@@ -487,6 +491,7 @@
 | [0695-max-area-of-island](https://github.com/ishivammishra/Leetcode_codes/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ishivammishra/Leetcode_codes/tree/master/1171-shortest-path-in-binary-matrix) |
