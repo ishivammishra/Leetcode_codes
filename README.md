@@ -15,6 +15,7 @@
 | [0041-first-missing-positive](https://github.com/ishivammishra/Leetcode_codes/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ishivammishra/Leetcode_codes/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ishivammishra/Leetcode_codes/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/ishivammishra/Leetcode_codes/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/ishivammishra/Leetcode_codes/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -395,6 +396,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ishivammishra/Leetcode_codes/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ishivammishra/Leetcode_codes/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ishivammishra/Leetcode_codes/tree/master/0326-power-of-three) |
