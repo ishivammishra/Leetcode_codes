@@ -52,6 +52,7 @@
 | [1036-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ishivammishra/Leetcode_codes/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1390-four-divisors](https://github.com/ishivammishra/Leetcode_codes/tree/master/1390-four-divisors) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ishivammishra/Leetcode_codes/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ishivammishra/Leetcode_codes/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -404,6 +405,7 @@
 | [0795-k-th-symbol-in-grammar](https://github.com/ishivammishra/Leetcode_codes/tree/master/0795-k-th-symbol-in-grammar) |
 | [0830-largest-triangle-area](https://github.com/ishivammishra/Leetcode_codes/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/0867-new-21-game) |
+| [1390-four-divisors](https://github.com/ishivammishra/Leetcode_codes/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ishivammishra/Leetcode_codes/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/ishivammishra/Leetcode_codes/tree/master/1642-water-bottles) |
