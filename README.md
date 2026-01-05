@@ -62,6 +62,7 @@
 | [1813-maximum-erasure-value](https://github.com/ishivammishra/Leetcode_codes/tree/master/1813-maximum-erasure-value) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1975-maximum-matrix-sum](https://github.com/ishivammishra/Leetcode_codes/tree/master/1975-maximum-matrix-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2047-find-a-peak-element-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/2047-find-a-peak-element-ii) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -140,6 +141,7 @@
 | [0917-boats-to-save-people](https://github.com/ishivammishra/Leetcode_codes/tree/master/0917-boats-to-save-people) |
 | [1448-maximum-69-number](https://github.com/ishivammishra/Leetcode_codes/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ishivammishra/Leetcode_codes/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1975-maximum-matrix-sum](https://github.com/ishivammishra/Leetcode_codes/tree/master/1975-maximum-matrix-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ishivammishra/Leetcode_codes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -499,6 +501,7 @@
 | [1036-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ishivammishra/Leetcode_codes/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1975-maximum-matrix-sum](https://github.com/ishivammishra/Leetcode_codes/tree/master/1975-maximum-matrix-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/2047-find-a-peak-element-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Trie
