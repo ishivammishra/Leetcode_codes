@@ -198,6 +198,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/ishivammishra/Leetcode_codes/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0975-range-sum-of-bst) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -236,6 +237,7 @@
 | [0975-range-sum-of-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0975-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1020-number-of-enclaves) |
 | [1073-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1073-number-of-enclaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -267,6 +269,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/ishivammishra/Leetcode_codes/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0975-range-sum-of-bst) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -295,6 +298,7 @@
 | [1020-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1073-number-of-enclaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ishivammishra/Leetcode_codes/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Dynamic Programming
 |  |
