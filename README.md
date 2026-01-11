@@ -196,6 +196,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/ishivammishra/Leetcode_codes/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0975-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -233,6 +234,7 @@
 | [0695-max-area-of-island](https://github.com/ishivammishra/Leetcode_codes/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/ishivammishra/Leetcode_codes/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/ishivammishra/Leetcode_codes/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0975-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1020-number-of-enclaves) |
@@ -267,6 +269,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/ishivammishra/Leetcode_codes/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0975-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ishivammishra/Leetcode_codes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -294,6 +297,7 @@
 | [0695-max-area-of-island](https://github.com/ishivammishra/Leetcode_codes/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ishivammishra/Leetcode_codes/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/ishivammishra/Leetcode_codes/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ishivammishra/Leetcode_codes/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/ishivammishra/Leetcode_codes/tree/master/1036-rotting-oranges) |
@@ -462,6 +466,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ishivammishra/Leetcode_codes/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ishivammishra/Leetcode_codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0940-fruit-into-baskets](https://github.com/ishivammishra/Leetcode_codes/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ishivammishra/Leetcode_codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1510-find-lucky-integer-in-an-array) |
