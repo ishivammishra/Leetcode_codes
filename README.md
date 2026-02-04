@@ -82,6 +82,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ishivammishra/Leetcode_codes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3583-count-special-triplets](https://github.com/ishivammishra/Leetcode_codes/tree/master/3583-count-special-triplets) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ishivammishra/Leetcode_codes/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3640-trionic-array-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/3640-trionic-array-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ishivammishra/Leetcode_codes/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/ishivammishra/Leetcode_codes/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -314,6 +315,7 @@
 | [0542-01-matrix](https://github.com/ishivammishra/Leetcode_codes/tree/master/0542-01-matrix) |
 | [0867-new-21-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ishivammishra/Leetcode_codes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3640-trionic-array-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/3640-trionic-array-ii) |
 ## String Matching
 |  |
 | ------- |
