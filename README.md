@@ -106,6 +106,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/ishivammishra/Leetcode_codes/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/ishivammishra/Leetcode_codes/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/ishivammishra/Leetcode_codes/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -123,6 +124,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ishivammishra/Leetcode_codes/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ishivammishra/Leetcode_codes/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/ishivammishra/Leetcode_codes/tree/master/0402-remove-k-digits) |
+| [0657-robot-return-to-origin](https://github.com/ishivammishra/Leetcode_codes/tree/master/0657-robot-return-to-origin) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ishivammishra/Leetcode_codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ishivammishra/Leetcode_codes/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1542-consecutive-characters](https://github.com/ishivammishra/Leetcode_codes/tree/master/1542-consecutive-characters) |
