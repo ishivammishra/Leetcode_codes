@@ -43,6 +43,7 @@
 | [0735-asteroid-collision](https://github.com/ishivammishra/Leetcode_codes/tree/master/0735-asteroid-collision) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/ishivammishra/Leetcode_codes/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0830-largest-triangle-area](https://github.com/ishivammishra/Leetcode_codes/tree/master/0830-largest-triangle-area) |
+| [0874-walking-robot-simulation](https://github.com/ishivammishra/Leetcode_codes/tree/master/0874-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/ishivammishra/Leetcode_codes/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/ishivammishra/Leetcode_codes/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/0932-monotonic-array) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/ishivammishra/Leetcode_codes/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/ishivammishra/Leetcode_codes/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/ishivammishra/Leetcode_codes/tree/master/0874-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/ishivammishra/Leetcode_codes/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ishivammishra/Leetcode_codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/2058-concatenation-of-array) |
@@ -476,6 +478,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/ishivammishra/Leetcode_codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ishivammishra/Leetcode_codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ishivammishra/Leetcode_codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/ishivammishra/Leetcode_codes/tree/master/0874-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/ishivammishra/Leetcode_codes/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ishivammishra/Leetcode_codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/1510-find-lucky-integer-in-an-array) |
