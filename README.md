@@ -87,6 +87,7 @@
 | [3583-count-special-triplets](https://github.com/ishivammishra/Leetcode_codes/tree/master/3583-count-special-triplets) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ishivammishra/Leetcode_codes/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3640-trionic-array-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/3640-trionic-array-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ishivammishra/Leetcode_codes/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/ishivammishra/Leetcode_codes/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -116,6 +117,7 @@
 | [2211-count-collisions-on-a-road](https://github.com/ishivammishra/Leetcode_codes/tree/master/2211-count-collisions-on-a-road) |
 | [3336-water-bottles-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ishivammishra/Leetcode_codes/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## String
 |  |
@@ -579,6 +581,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ishivammishra/Leetcode_codes/tree/master/0053-maximum-subarray) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Linked List
 |  |
 | ------- |
