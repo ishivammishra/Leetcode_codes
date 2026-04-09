@@ -88,6 +88,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ishivammishra/Leetcode_codes/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3640-trionic-array-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/3640-trionic-array-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ishivammishra/Leetcode_codes/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/ishivammishra/Leetcode_codes/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -582,6 +583,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/ishivammishra/Leetcode_codes/tree/master/0053-maximum-subarray) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Linked List
 |  |
 | ------- |
