@@ -89,6 +89,7 @@
 | [3640-trionic-array-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/3640-trionic-array-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ishivammishra/Leetcode_codes/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ishivammishra/Leetcode_codes/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/ishivammishra/Leetcode_codes/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -491,6 +492,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/ishivammishra/Leetcode_codes/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ishivammishra/Leetcode_codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3583-count-special-triplets](https://github.com/ishivammishra/Leetcode_codes/tree/master/3583-count-special-triplets) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ishivammishra/Leetcode_codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ishivammishra/Leetcode_codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Union Find
